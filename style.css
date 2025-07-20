@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'SpaceAgeFont';
+    src: url('https://github.com/br3adjam/sadpfoiasdjfpoaisdjmoafcs/blob/main/space_age.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.username_c19a55{
+    font-family: 'SpaceAgeFont', sans-serif;
+}
